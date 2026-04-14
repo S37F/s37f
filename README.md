@@ -84,9 +84,9 @@ Hello There! ***I'm Fahim Badgujar***, an Information Technology student passion
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-badgujar&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=333333" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s37f&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=333333" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahim-badgujar&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s37f&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" alt="Activity Graph"/>
 </p>
