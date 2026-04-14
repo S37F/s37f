@@ -1,3 +1,5 @@
+![Banner](./banner.svg)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-badgujar-3390842b6/)
 
 ---
@@ -75,4 +77,16 @@ Hello There! ***I'm Fahim Badgujar***, an Information Technology student passion
 
 ## *Statistics*
 
-![Fahim's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s37f&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahim-badgujar&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" height="180" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-badgujar&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-badgujar&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=333333" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahim-badgujar&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" alt="Activity Graph"/>
+</p>
