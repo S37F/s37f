@@ -6,7 +6,7 @@
 
 ## *About me*
 
-![Coding GIF](light __ death note.gif)
+![Coding GIF](https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da000032e4be75df84b5c.gif)
 
 Hello There! ***I'm Fahim Badgujar***, an Information Technology student passionate about building intelligent, full-stack systems — from ML pipelines and LLM-powered apps to scalable cloud-native backends.
 
@@ -76,6 +76,12 @@ Hello There! ***I'm Fahim Badgujar***, an Information Technology student passion
 ---
 
 ## *Statistics*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s37f&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" height="180" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s37f&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333" height="180" alt="Top Languages"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=s37f&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=333333" alt="GitHub Streak"/>
