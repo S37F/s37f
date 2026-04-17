@@ -8,7 +8,7 @@
 
 <!--![Coding GIF](https://raw.githubusercontent.com/S37F/s37f/refs/heads/main/light%20__%20death%20note.gif) -->
 
-Hello There! ***I'm Fahim Badgujar***, an Information Technology student passionate about building intelligent, full-stack systems — from ML pipelines and LLM-powered apps to scalable cloud-native backends.
+Hello There! ***I'm Fahim Badgujar***, an Information Technology student passionate about building intelligent, full-stack systems — from ML pipelines and LLM-powered apps to scalable cloud-native backends
 
 🎓 &nbsp;***Studying Information Technology at SVKM's DJSCE, Mumbai***  
 💻 &nbsp;***Full-Stack & AI/ML Developer***  
